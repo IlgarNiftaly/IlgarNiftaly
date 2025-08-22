@@ -79,7 +79,7 @@ _May – August 2024_
 
 ## 📫 Mənimlə əlaqə
 - 📧 Email: ilgarniftaly@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seninlinkedin)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ilgar-niftaly-9560652b5/)  
 - 🖥️ [GitHub](https://github.com/IlgarNiftaly)  
 
 ⭐ Daim öyrənirəm, inkişaf edirəm və yeni texnologiyalarla işləməkdən zövq alıram!
