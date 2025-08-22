@@ -72,8 +72,7 @@ _May – August 2024_
 ---
 
 ## 📊 GitHub Statistikaları
-![Ilgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlgarNiftaly&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlgarNiftaly&layout=compact&theme=tokyonight)  
+![Ilgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlgarNiftaly&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlgarNiftaly&layout=compact&theme=tokyonight)  
 
 ---
 
