@@ -51,7 +51,7 @@ Currently, I’m deepening my knowledge in the **Spring Boot ecosystem** and imp
 
 ## 📫 Get in Touch
 - 📧 Email: ilgarniftaly@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ilgar-niftaly-9560652b5/)  
-- 🖥️ [GitHub](https://github.com/IlgarNiftaly)  
+- 💼 LinkedIn: https://www.linkedin.com/in/ilgar-niftaly-9560652b5
+- 🖥️ GitHub: https://github.com/IlgarNiftaly
 
 ⭐ Always learning, growing, and passionate about exploring new technologies!
