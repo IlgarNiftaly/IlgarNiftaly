@@ -16,7 +16,7 @@ Currently, I’m deepening my knowledge in the **Spring Boot ecosystem** and imp
 
 ### 🚀 Frameworks & Tools  
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <!-- Spring Boot -->
