@@ -25,19 +25,20 @@ Currently, I’m deepening my knowledge in the **Spring Boot ecosystem** and imp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <!-- GitHub (white logo for dark mode) -->
   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" alt="github" width="40" height="40"/>
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <!-- Hibernate -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
   <!-- JDBC -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <!-- Tomcat -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/><!-- Tomcat -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/>
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <!-- Oracle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <!-- JUnit -->
   <img src="https://img.icons8.com/external-outline-juicy-fish/40/external-test-coding-and-development-outline-outline-juicy-fish.png" alt="junit" width="40" height="40"/>
   <!-- Debugging -->
   <img src="https://img.icons8.com/color/40/bug.png" alt="debugging" width="40" height="40"/>
