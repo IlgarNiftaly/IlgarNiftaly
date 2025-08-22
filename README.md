@@ -17,21 +17,42 @@ Currently, I’m deepening my knowledge in the **Spring Boot ecosystem** and imp
 ### 🚀 Frameworks & Tools  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="hibernate" width="45" height="45"/>
-  <img src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-rest-api-coding-and-development-outline-outline-juicy-fish.png" alt="rest api" width="45" height="45"/>
-  <img src="https://img.icons8.com/ios/50/000000/microservices.png" alt="microservices" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="maven" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/apache-tomcat.png" alt="tomcat" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="junit" width="45" height="45"/>
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <!-- Spring Boot -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <!-- Hibernate -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
+  <!-- REST API -->
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-rest-api-web-development-flaticons-lineal-color-flat-icons.png" alt="rest" width="40" height="40"/>
+  <!-- Microservices -->
+  <img src="https://img.icons8.com/external-wanicon-flat-wanicon/40/external-microservice-big-data-wanicon-flat-wanicon.png" alt="microservices" width="40" height="40"/>
+  <!-- JDBC -->
+  <img src="https://img.icons8.com/ios/40/database.png" alt="jdbc" width="40" height="40"/>
+  <!-- Maven -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <!-- Tomcat -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/>
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <!-- Oracle -->
+  <img src="https://img.icons8.com/color/40/oracle-logo.png" alt="oracle" width="40" height="40"/>
+  <!-- JUnit -->
+  <img src="https://img.icons8.com/external-outline-juicy-fish/40/external-test-coding-and-development-outline-outline-juicy-fish.png" alt="junit" width="40" height="40"/>
+  <!-- Debugging -->
+  <img src="https://img.icons8.com/color/40/bug.png" alt="debugging" width="40" height="40"/>
+  <!-- Code Review -->
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-code-review-agile-flaticons-lineal-color-flat-icons.png" alt="code-review" width="40" height="40"/>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <!-- GitHub (white logo for dark mode) -->
+  <img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" alt="github" width="40" height="40"/>
 </p>
+
 
 
 **Databases:**  
